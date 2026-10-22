@@ -1,0 +1,5 @@
+this will copy a file to another location
+cp 01-DIRECTORY-MANAGEMENT/directory-management.txt 02-FILE-MANAGEMENT/directory-management.txt
+
+this will delete a file
+rm 02-FILE-MANAGEMENT/directory-management.txt

@@ -1,0 +1,26 @@
+this will print your current directory
+pwd
+
+this will list files
+ls
+
+this will list files along with hidden files, folders, permissions e.t.c
+ls -la
+
+this will change directory
+cd
+
+this will go back by one directory
+cd ..
+
+this will create a directory
+mkdir
+
+this will display the contents of your file
+cat
+
+this will clear your screen
+clear
+
+this will create a file 
+touch
