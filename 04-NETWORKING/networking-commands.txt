@@ -1,0 +1,26 @@
+// Display ip versioning protocoal that we are using
+ip -V
+
+// Access yahoo website via curl
+curl https://www.yahoo.com
+
+// verify ping tool
+ping -V
+
+// Check your systems IP Address
+ip addr
+ip -br addr
+
+
+// Test a Loopback
+ping -c 6 127.0.0.1
+
+
+// Discover your network gateway
+ip route
+
+// Ping Cloudflares External IP
+ping -c 4 1.1.1.1
+
+// This will Demonstrate a DNS System
+getent ahosts example.com
